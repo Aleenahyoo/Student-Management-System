@@ -1,0 +1,1 @@
+A web-based Student Management System developed using PHP, MySQL, HTML, CSS, and Bootstrap. The system provides features for student registration, login, student management, viewing, editing, and deleting student records through a simple and user-friendly interface.
